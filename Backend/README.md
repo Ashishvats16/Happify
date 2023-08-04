@@ -1,4 +1,4 @@
-# Selfscape Back-end
+# Happify Back-end
 
 1. Docs: https://documenter.getpostman.com/view/7638824/TVCdzToP
 2. Base Url: http://localhost:8000/
